@@ -1,8 +1,15 @@
 Installing Jenkins with WAR file
 NB: Install Java JRE or JDK if not installed.
-1.“java -jar jenkins.war”
-2.Type in “localhost:8080” on browser to open Jenkins
-3. Input password that is on the terminal provided by the installation of Java to continue installation
-4. Install suggested plugins 
-5. Create first admin user
-6. Leave Instance Configuration as Default
+1. Download Jenkins WAR file
+
+2.Type “java -jar jenkins.war” to install Jenkins
+
+3.Type in “localhost:8080” on browser to open Jenkins
+
+4. Input password that is on the terminal provided by the installation of Java to continue installation
+
+5. Install suggested plugins 
+
+6. Create first admin user
+
+7. Leave Instance Configuration as Default
