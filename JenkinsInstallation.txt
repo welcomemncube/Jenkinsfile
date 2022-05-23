@@ -1,5 +1,7 @@
 Installing Jenkins with WAR file
+
 NB: Install Java JRE or JDK if not installed.
+
 1. Download Jenkins WAR file
 
 2.Type “java -jar jenkins.war” to install Jenkins
